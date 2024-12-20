@@ -1,0 +1,6 @@
+[submodule "MyERC721Implementation/lib/forge-std"]
+	path = MyERC721Implementation/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "MyERC1155Implementation/lib/forge-std"]
+	path = MyERC1155Implementation/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
